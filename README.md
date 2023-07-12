@@ -5,10 +5,12 @@ The project aims to develop robust and accurate models that can identify and cla
 
 Key Features:
 
-Preprocessing techniques for different data modalities (text, audio, image)
-Implementation of state-of-the-art machine learning models for emotion detection
-Evaluation metrics for model performance and accuracy
-Transfer learning approaches for leveraging pre-trained models
-Data augmentation techniques to enhance model generalization
-Visualization techniques to analyze and interpret emotion detection results
-Contributions and collaborations are welcome to enhance the performance of emotion detection models, explore new datasets, or develop innovative approaches. Let's work together to advance the field of emotion detection and its real-world applications.
+* Preprocessing techniques for different data modalities (text, audio, image)
+* Implementation of state-of-the-art machine learning models for emotion detection
+* Evaluation metrics for model performance and accuracy
+* Transfer learning approaches for leveraging pre-trained models
+* Data augmentation techniques to enhance model generalization
+* Visualization techniques to analyze and interpret emotion detection results
+* Contributions and collaborations are welcome to enhance the performance of emotion detection models, explore new datasets, or develop innovative approaches.
+
+* Let's work together to advance the field of emotion detection and its real-world applications.
